@@ -1,0 +1,3 @@
+<!ELEMENT Server (hpa,nub)>
+        <!ELEMENT hpa (#PCDATA)>
+        <!ELEMENT nub (#PCDATA)>

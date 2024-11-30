@@ -1,0 +1,3 @@
+<!ELEMENT Server (vien,pr)>
+        <!ELEMENT vien (#PCDATA)>
+        <!ELEMENT pr (#PCDATA)>

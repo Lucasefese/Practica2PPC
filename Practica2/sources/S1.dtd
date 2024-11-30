@@ -1,0 +1,3 @@
+<!ELEMENT Server (temp,hv)>
+        <!ELEMENT temp (#PCDATA)>
+        <!ELEMENT hv (#PCDATA)>

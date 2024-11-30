@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Server SYSTEM "S1.dtd">
+<Server>
+	<temp>24.0</temp>
+	<hv>56.0</hv>
+</Server>
